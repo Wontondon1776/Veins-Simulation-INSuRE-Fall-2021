@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!-- CSUSB.launchd.xml -->
+
+<launch>
+    <copy file="CSUSB.net.xml" />
+    <copy file="CSUSB.rou.xml" />
+    <copy file="CSUSB.poly.xml" />
+    <copy file="CSUSB.sumo.cfg" type="config" />
+</launch>
